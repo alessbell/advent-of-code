@@ -1,0 +1,23 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "description": "Alessia's Advent of Code Solutions",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alessbell/advent-of-code.git"
+  },
+  "keywords": [
+    "advent of code"
+  ],
+  "author": "Alessia Bellisario",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alessbell/advent-of-code/issues"
+  },
+  "homepage": "https://github.com/alessbell/advent-of-code#readme"
+}
